@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://cdn.culturagenial.com/imagens/triqueta-serie-dark-0-cke.jpg">
+<img align="right" width="400" height="400" src="https://github.com/fmarinhop/fmarinhop/blob/main/coffee.svg">
  
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
