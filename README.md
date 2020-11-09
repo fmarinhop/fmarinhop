@@ -7,7 +7,7 @@ Full-stack focused in Python | Data Analyst :robot:
 
 Analyzing and clean bigs volume the data | Data Science :man_technologist:
 
-Lover of Technology and coding lover :heart:
+Lover of Technology and coding lover :coffee:
 
 Love create robots for all tasks of my day :robot:
  
