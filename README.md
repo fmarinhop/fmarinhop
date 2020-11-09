@@ -3,8 +3,9 @@
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
 
-Enthusiast in web application development, using opensource technologies, especially using python, constant search for new technologies and programming language
- 
+Full-stack focused in Python | Data Analyst | Data Science :robot:
+Lover of Technology and coding lover :heart:
+Love create robots for all tasks of my day :robot:
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fmarinhop)](https://github.com/fmarinhop)
