@@ -3,8 +3,6 @@
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
 
-- [x] this is a complete item
-
 Full-stack focused in Python | Data Analyst :robot:
 
 Analyzing and clean bigs volume the data | Data Science :man_technologist:
