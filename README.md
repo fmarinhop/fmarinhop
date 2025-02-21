@@ -3,11 +3,9 @@
 # Welcome!
 ## I'm Fernando! Let me present a little about myself :D
 
-SRE | DevOps Engineer com foco em AWS | Microsoft Azure | Google Cloud | Oracle Cloud | Full-stack focused in Python | Data Analyst :robot:
+SRE | DevOps Engineer com foco em AWS | Microsoft Azure | Google Cloud | Oracle Cloud | Full-stack focused in Python | Data Analyst :robot: :man_technologist:
 
-Analyzing and clean bigs volume the data | Data Science :man_technologist:
-
-Lover of Technology and coding lover :coffee:
+Lover of Technology and automation services :coffee:
 
 Love create robots for all tasks of my day :rocket: 
  
